@@ -2,7 +2,7 @@
 // @name         SAMSUNG UTAG
 // @namespace    UTAG Injection
 // @version      0.1
-// @description  try to take over the world!
+// @description  Inject Tealium Script on Samsung Site when tealium=true is appended in the URL
 // @author       Catherine
 // @include       *samsung.com/*
 
